@@ -9,7 +9,7 @@ As depicted in Fig. \ref{equip}, our multi-sensor data acquisition device is ver
 
 
 ##  Dataset Details
-### The dataset is released in the form of rosbag and currently there are 10 rosbags available:
+### The dataset is released in the form of rosbag and currently there are 6 rosbags available:
 
 | name | duration | size |
 | :--: | :------: | :--: |
