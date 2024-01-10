@@ -33,6 +33,25 @@ As depicted in Fig. \ref{equip}, our multi-sensor data acquisition device is ver
 | /fixposition/gnss2| sensor_msgs/NavSatFix | 5Hz | GNSS2 RTK position from VRTK2| 
 
 
+## Related paper
+### When using this Dataset in academic work, please consider citing:
+
+    @ARTICLE{10384447,
+      author={Song, Jiangbo and Li, Wanqing and Duan, Chufeng and Wang, Lei and Fan, Yiheng and Zhu, Xiangwei},
+      journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+      title={An Optimization-Based Indoor-Outdoor Seamless Positioning Method Integrating GNSS RTK, PS, and VIO}, 
+      year={2024},
+      volume={},
+      number={},
+      pages={1-1},
+      doi={10.1109/TCSII.2024.3351172}}
+
+
+### Related paper:
+
+[1]	J. Song, W. Li, C. Duan, L. Wang, Y. Fan and X. Zhu, "An Optimization-Based Indoor-Outdoor Seamless Positioning Method Integrating GNSS RTK, PS, and VIO," in IEEE Transactions on Circuits and Systems II: Express Briefs, doi: 10.1109/TCSII.2024.3351172.
+
+
 ##  Dwonload
 Data set download link：https://pan.baidu.com/s/16r17_SFyLk3FEW6osD0UhA 
 Password：cpnt 
